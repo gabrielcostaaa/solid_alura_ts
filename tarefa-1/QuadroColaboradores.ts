@@ -1,4 +1,3 @@
-import { Cargos } from "./enum/cargos";
 import Colaborador from "./Colaborador";
 
 export default class QuadroColaboradores {
@@ -21,6 +20,7 @@ export default class QuadroColaboradores {
         return this._colaboradores;
     }
 }
+
 
 
 
